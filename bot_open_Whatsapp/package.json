@@ -1,0 +1,15 @@
+{
+  "name": "bot_open_whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "marciomartins12",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.8.2"
+  }
+}
